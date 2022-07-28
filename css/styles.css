@@ -1,0 +1,19 @@
+  body {
+    background-color: #EAF6F6;
+    font-family: Verdana;
+  }
+
+  hr {
+    border-color: grey;
+    border-width: 7px;
+    border-style: none none dotted;
+    width: 5%;
+  }
+
+  img {
+    height: 300px;
+  }
+  h1 {color: #395B64;
+  }
+  h3 {color: #66BFBF;
+  }
